@@ -1,5 +1,3 @@
-registerUser
-
 import json
 import boto3
 import bcrypt
